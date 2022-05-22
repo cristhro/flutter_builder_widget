@@ -6,7 +6,7 @@ enum ThemeType {
 
 /// AppTheme is the primary means of styling colors in your application.
 /// Use provider to lookup and bind to the current theme:
-//      AppTheme theme = context.watch();
+//      AppTheme theme = AppTheme.fromType(ThemeType.Orange_Light);
 //      return Container(color: theme.accentColor);
 class AppTheme {
   static ThemeType defaultTheme = ThemeType.Orange_Light;

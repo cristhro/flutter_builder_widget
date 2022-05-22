@@ -1,7 +1,7 @@
 // import 'package:flutter/material.dart';
 // import 'package:flutter/rendering.dart';
-// import 'package:flutter_folio/core_packages.dart';
-// import 'package:flutter_folio/models/app_model.dart';
+// import 'package:builder_widgets/core_packages.dart';
+// import 'package:builder_widgets/models/app_model.dart';
 //
 // // Notification to trigger the ContextMenu
 // class ShowContextMenuNotification extends Notification {

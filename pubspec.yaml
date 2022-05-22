@@ -12,12 +12,17 @@ dependencies:
     sdk: flutter
   cached_network_image: ^3.2.1
   random_color: ^1.0.5
-
-
+  darq: ^1.2.1
+  shared_preferences: ^2.0.15
+  provider: ^6.0.3
+  sized_context: ^1.0.0+1
+  context_menus: ^1.0.1
+  anchored_popups: ^0.1.0
+  device_preview: ^1.0.0
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.0
+  flutter_lints: ^2.0.1
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
